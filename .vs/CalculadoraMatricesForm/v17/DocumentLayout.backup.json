@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|c:\\users\\villa\\desktop\\analista de sistemas\\laboratorio_de_programacion_1\\proyectos_c#\\netcore\\calculadoramatricesform\\calculadoramatricesform\\componentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|solutionrelative:calculadoramatricesform\\componentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\calculadoramatricesform\\ucelineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|solutionrelative:calculadoramatricesform\\ucelineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\calculadoramatricesform\\matrices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|solutionrelative:calculadoramatricesform\\matrices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\calculadoramatricesform\\ucelineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|solutionrelative:calculadoramatricesform\\ucelineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\calculadoramatricesform\\ecuacioneslineales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|solutionrelative:calculadoramatricesform\\ecuacioneslineales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\calculadoramatricesform\\funcionesgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|solutionrelative:calculadoramatricesform\\funcionesgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\calculadoramatricesform\\ucinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|solutionrelative:calculadoramatricesform\\ucinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\calculadoramatricesform\\ucinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|solutionrelative:calculadoramatricesform\\ucinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\calculadoramatricesform\\ucraices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|solutionrelative:calculadoramatricesform\\ucraices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\calculadoramatricesform\\ucsuma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|solutionrelative:calculadoramatricesform\\ucsuma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\calculadoramatricesform\\ucsuma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|solutionrelative:calculadoramatricesform\\ucsuma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\calculadoramatricesform\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|solutionrelative:calculadoramatricesform\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\calculadoramatricesform\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|solutionrelative:calculadoramatricesform\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\calculadoramatricesform\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|solutionrelative:calculadoramatricesform\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\calculadoramatricesform\\ucmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|solutionrelative:calculadoramatricesform\\ucmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\calculadoramatricesform\\ucmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|solutionrelative:calculadoramatricesform\\ucmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\calculadoramatricesform\\colores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|solutionrelative:calculadoramatricesform\\colores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\calculadoramatricesform\\ucmenu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|solutionrelative:calculadoramatricesform\\ucmenu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\calculadoramatricesform\\frmprincipal.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6FA9CE8B-AC26-4FF1-805E-76ACE0D556E9}|CalculadoraMatricesForm\\CalculadoraMatricesForm.csproj|solutionrelative:calculadoramatricesform\\frmprincipal.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UCSuma.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\UCSuma.cs",
+              "RelativeDocumentMoniker": "CalculadoraMatricesForm\\UCSuma.cs",
+              "ToolTip": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\UCSuma.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CalculadoraMatricesForm\\UCSuma.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T23:24:58.375Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Colores.cs",
+              "DocumentMoniker": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\Colores.cs",
+              "RelativeDocumentMoniker": "CalculadoraMatricesForm\\Colores.cs",
+              "ToolTip": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\Colores.cs",
+              "RelativeToolTip": "CalculadoraMatricesForm\\Colores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:19:33.931Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UCELineal.cs",
+              "DocumentMoniker": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\UCELineal.cs",
+              "RelativeDocumentMoniker": "CalculadoraMatricesForm\\UCELineal.cs",
+              "ToolTip": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\UCELineal.cs",
+              "RelativeToolTip": "CalculadoraMatricesForm\\UCELineal.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:55:59.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "CalculadoraMatricesForm\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\frmPrincipal.cs",
+              "RelativeToolTip": "CalculadoraMatricesForm\\frmPrincipal.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:23:46.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "CalculadoraMatricesForm\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\frmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CalculadoraMatricesForm\\frmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:23:40.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UCSuma.cs",
+              "DocumentMoniker": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\UCSuma.cs",
+              "RelativeDocumentMoniker": "CalculadoraMatricesForm\\UCSuma.cs",
+              "ToolTip": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\UCSuma.cs",
+              "RelativeToolTip": "CalculadoraMatricesForm\\UCSuma.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAAOEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T23:42:48.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FuncionesGenerales.cs",
+              "DocumentMoniker": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\FuncionesGenerales.cs",
+              "RelativeDocumentMoniker": "CalculadoraMatricesForm\\FuncionesGenerales.cs",
+              "ToolTip": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\FuncionesGenerales.cs",
+              "RelativeToolTip": "CalculadoraMatricesForm\\FuncionesGenerales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:38:37.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Componentes.cs",
+              "DocumentMoniker": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\Componentes.cs",
+              "RelativeDocumentMoniker": "CalculadoraMatricesForm\\Componentes.cs",
+              "ToolTip": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\Componentes.cs",
+              "RelativeToolTip": "CalculadoraMatricesForm\\Componentes.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwHEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:13:07.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EcuacionesLineales.cs",
+              "DocumentMoniker": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\EcuacionesLineales.cs",
+              "RelativeDocumentMoniker": "CalculadoraMatricesForm\\EcuacionesLineales.cs",
+              "ToolTip": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\EcuacionesLineales.cs",
+              "RelativeToolTip": "CalculadoraMatricesForm\\EcuacionesLineales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T21:12:57.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UCInfo.cs",
+              "DocumentMoniker": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\UCInfo.cs",
+              "RelativeDocumentMoniker": "CalculadoraMatricesForm\\UCInfo.cs",
+              "ToolTip": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\UCInfo.cs",
+              "RelativeToolTip": "CalculadoraMatricesForm\\UCInfo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:56:48.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UCInfo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\UCInfo.cs",
+              "RelativeDocumentMoniker": "CalculadoraMatricesForm\\UCInfo.cs",
+              "ToolTip": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\UCInfo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CalculadoraMatricesForm\\UCInfo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:48:15.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matrices.cs",
+              "DocumentMoniker": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\Matrices.cs",
+              "RelativeDocumentMoniker": "CalculadoraMatricesForm\\Matrices.cs",
+              "ToolTip": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\Matrices.cs",
+              "RelativeToolTip": "CalculadoraMatricesForm\\Matrices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:28:10.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UCRaices.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\UCRaices.cs",
+              "RelativeDocumentMoniker": "CalculadoraMatricesForm\\UCRaices.cs",
+              "ToolTip": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\UCRaices.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CalculadoraMatricesForm\\UCRaices.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T21:39:12.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UCELineal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\UCELineal.cs",
+              "RelativeDocumentMoniker": "CalculadoraMatricesForm\\UCELineal.cs",
+              "ToolTip": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\UCELineal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CalculadoraMatricesForm\\UCELineal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T23:09:13.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\frmPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "CalculadoraMatricesForm\\frmPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\frmPrincipal.Designer.cs",
+              "RelativeToolTip": "CalculadoraMatricesForm\\frmPrincipal.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:35:11.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UCMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\UCMenu.cs",
+              "RelativeDocumentMoniker": "CalculadoraMatricesForm\\UCMenu.cs",
+              "ToolTip": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\UCMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CalculadoraMatricesForm\\UCMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:04:33.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UCMenu.cs",
+              "DocumentMoniker": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\UCMenu.cs",
+              "RelativeDocumentMoniker": "CalculadoraMatricesForm\\UCMenu.cs",
+              "ToolTip": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\UCMenu.cs",
+              "RelativeToolTip": "CalculadoraMatricesForm\\UCMenu.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwDEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:29:01.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UCMenu.resx",
+              "DocumentMoniker": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\UCMenu.resx",
+              "RelativeDocumentMoniker": "CalculadoraMatricesForm\\UCMenu.resx",
+              "ToolTip": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\UCMenu.resx",
+              "RelativeToolTip": "CalculadoraMatricesForm\\UCMenu.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-14T20:52:22.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmPrincipal.resx",
+              "DocumentMoniker": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\frmPrincipal.resx",
+              "RelativeDocumentMoniker": "CalculadoraMatricesForm\\frmPrincipal.resx",
+              "ToolTip": "C:\\Users\\villa\\Desktop\\Analista de Sistemas\\Laboratorio_de_programacion_1\\Proyectos_C#\\NetCore\\CalculadoraMatricesForm\\CalculadoraMatricesForm\\frmPrincipal.resx",
+              "RelativeToolTip": "CalculadoraMatricesForm\\frmPrincipal.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-07T18:31:24.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

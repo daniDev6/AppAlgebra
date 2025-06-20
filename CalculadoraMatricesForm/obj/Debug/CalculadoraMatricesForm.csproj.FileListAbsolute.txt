@@ -1,0 +1,16 @@
+C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyectos_C#\NetCore\CalculadoraMatricesForm\CalculadoraMatricesForm\bin\Debug\CalculadoraMatricesForm.exe.config
+C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyectos_C#\NetCore\CalculadoraMatricesForm\CalculadoraMatricesForm\bin\Debug\CalculadoraMatricesForm.exe
+C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyectos_C#\NetCore\CalculadoraMatricesForm\CalculadoraMatricesForm\bin\Debug\CalculadoraMatricesForm.pdb
+C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyectos_C#\NetCore\CalculadoraMatricesForm\CalculadoraMatricesForm\obj\Debug\CalculadoraMatricesForm.csproj.AssemblyReference.cache
+C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyectos_C#\NetCore\CalculadoraMatricesForm\CalculadoraMatricesForm\obj\Debug\CalculadoraMatricesForm.frmPrincipal.resources
+C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyectos_C#\NetCore\CalculadoraMatricesForm\CalculadoraMatricesForm\obj\Debug\CalculadoraMatricesForm.Properties.Resources.resources
+C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyectos_C#\NetCore\CalculadoraMatricesForm\CalculadoraMatricesForm\obj\Debug\CalculadoraMatricesForm.csproj.GenerateResource.cache
+C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyectos_C#\NetCore\CalculadoraMatricesForm\CalculadoraMatricesForm\obj\Debug\CalculadoraMatricesForm.csproj.CoreCompileInputs.cache
+C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyectos_C#\NetCore\CalculadoraMatricesForm\CalculadoraMatricesForm\obj\Debug\CalculadoraMatricesForm.exe
+C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyectos_C#\NetCore\CalculadoraMatricesForm\CalculadoraMatricesForm\obj\Debug\CalculadoraMatricesForm.pdb
+C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyectos_C#\NetCore\CalculadoraMatricesForm\CalculadoraMatricesForm\obj\Debug\CalculadoraMatricesForm.exe.config
+C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyectos_C#\NetCore\CalculadoraMatricesForm\CalculadoraMatricesForm\obj\Debug\CalculadoraMatricesForm.UCSuma.resources
+C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyectos_C#\NetCore\CalculadoraMatricesForm\CalculadoraMatricesForm\obj\Debug\CalculadoraMatricesForm.UCInfo.resources
+C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyectos_C#\NetCore\CalculadoraMatricesForm\CalculadoraMatricesForm\obj\Debug\CalculadoraMatricesForm.UCMenu.resources
+C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyectos_C#\NetCore\CalculadoraMatricesForm\CalculadoraMatricesForm\obj\Debug\CalculadoraMatricesForm.UCELineal.resources
+C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyectos_C#\NetCore\CalculadoraMatricesForm\CalculadoraMatricesForm\obj\Debug\CalculadoraMatricesForm.UCRaices.resources
