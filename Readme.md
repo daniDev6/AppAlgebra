@@ -43,6 +43,7 @@ La aplicación cuenta con un menú desde el cual podés:
 ## Imagenes Ilustrativas
 
 - Menu Principal
+ 
 ![Menu Principal](/imagenes/menu.png)
 
 - Editar matriz
