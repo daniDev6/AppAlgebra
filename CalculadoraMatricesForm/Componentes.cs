@@ -70,20 +70,15 @@ namespace CalculadoraMatricesForm
                     {
                         int filaV = punto.X;
                         int columnaV = punto.Y;
-                        string nuevoValor = Interaction.InputBox(
-                            "Ingrese el nuevo valor:",
-                            "Editar valor",
-                            clickedLabel.Text);
+                        frmIngresarDatos ventanaIngresar = new frmIngresarDatos(matriz[fila, columna]);
+                        ventanaIngresar.ShowDialog();
+                        double? numeroNuevo = ventanaIngresar.nuevoValor;
+                        if (numeroNuevo != null)
+                        {
+                            matriz[fila, columna] = (double)numeroNuevo;  // Aquí actualizamos la matriz
+                        }
+                        clickedLabel.Text = numeroNuevo.ToString();
 
-                        if (!string.IsNullOrWhiteSpace(nuevoValor) && double.TryParse(nuevoValor, out double numero))
-                        {
-                            clickedLabel.Text = nuevoValor;
-                            matriz[filaV, columnaV] = numero;  // Aquí actualizamos la matriz
-                        }
-                        else
-                        {
-                            MessageBox.Show("Valor no válido. Debe ser un número.");
-                        }
                     }
                 };
             }

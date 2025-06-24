@@ -19,6 +19,7 @@ namespace CalculadoraMatricesForm
         public Color BOTON_NARANJA=ColorTranslator.FromHtml("#a46904");
         public Color BOTON_VOLVER=ColorTranslator.FromHtml("#27a1a5");
         public Color BOTON_SALIR=ColorTranslator.FromHtml("#c9031a");
+        public Color MARRON=ColorTranslator.FromHtml("#12248e");
         
     }
 }

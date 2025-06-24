@@ -14,3 +14,4 @@ C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyec
 C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyectos_C#\NetCore\CalculadoraMatricesForm\CalculadoraMatricesForm\obj\Debug\CalculadoraMatricesForm.UCMenu.resources
 C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyectos_C#\NetCore\CalculadoraMatricesForm\CalculadoraMatricesForm\obj\Debug\CalculadoraMatricesForm.UCELineal.resources
 C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyectos_C#\NetCore\CalculadoraMatricesForm\CalculadoraMatricesForm\obj\Debug\CalculadoraMatricesForm.UCRaices.resources
+C:\Users\villa\Desktop\Analista de Sistemas\Laboratorio_de_programacion_1\Proyectos_C#\NetCore\CalculadoraMatricesForm\CalculadoraMatricesForm\obj\Debug\CalculadoraMatricesForm.frmIngresarDatos.resources

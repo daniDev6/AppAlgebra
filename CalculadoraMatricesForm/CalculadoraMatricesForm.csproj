@@ -51,6 +51,12 @@
     <Compile Include="Colores.cs" />
     <Compile Include="Componentes.cs" />
     <Compile Include="EcuacionesLineales.cs" />
+    <Compile Include="frmIngresarDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIngresarDatos.Designer.cs">
+      <DependentUpon>frmIngresarDatos.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -91,6 +97,9 @@
     <Compile Include="UCSuma.Designer.cs">
       <DependentUpon>UCSuma.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="frmIngresarDatos.resx">
+      <DependentUpon>frmIngresarDatos.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmPrincipal.resx">
       <DependentUpon>frmPrincipal.cs</DependentUpon>
     </EmbeddedResource>
