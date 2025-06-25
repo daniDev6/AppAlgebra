@@ -67,3 +67,19 @@ La aplicación cuenta con un menú desde el cual podés:
 
 ## Colaboraciones
 Toda persona que pueda aportar mejoras y/o encuentre errores en el codigo no dude en contactarme [gmailCorporativo](mailto:danidev067@gmail.com) 
+## 📃 Licencia
+
+Este proyecto está licenciado bajo la [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.es).
+
+Esto significa que podés:
+
+- Compartir — copiar y redistribuir el material en cualquier medio o formato.
+- Adaptar — remezclar, transformar y construir a partir del material.
+
+**Bajo las siguientes condiciones:**
+
+- 📌 **Atribución** — Debes dar crédito adecuado, proporcionar un enlace a la licencia e indicar si se han realizado cambios.
+- 🚫 **No Comercial** — No podés usar el material con fines comerciales.
+
+> ⚠️ No está permitido publicar ni revender esta aplicación, ni partes de ella, en plataformas como Play Store, Microsoft Store, etc., con fines comerciales.
+
